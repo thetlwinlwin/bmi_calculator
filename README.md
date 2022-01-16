@@ -1,4 +1,5 @@
-# i_am_rich
+# Sample_project
+
 
 A new Flutter project.
 
